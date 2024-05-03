@@ -3,6 +3,7 @@
 <div class="feature-card">
   <router-link to="/movie/tt0409591">
 
+<!-- add  a default image here -->
 <img src="" alt="Avatar poster" class="featured-img">
 <div class="details">
   <h3>Avatar</h3>
